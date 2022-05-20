@@ -1,0 +1,25 @@
+name: Update velog_post
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '30 14 * * *'
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Stats
+        uses: kyechan99/velog-stats@main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+        with:
+          VELOG_ID: 'nnakki'
+          GITHUB_ID: 'nnakki'
+          GITHUB_EMAIL: 'yvely225@gmail.com'
+          README_PATH: 'README.md'
+          COMMIT_MSG: 'Update README'
+          LIMIT: 5
+          TYPE: '🤍'
