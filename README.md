@@ -25,9 +25,7 @@
 <div align=center> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/Gradle-02303a?style=for-the-badge&logo=Gradle&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F32?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
- <img src="https://img.shields.io/badge/Microsoft Azure-0078d4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
- <img src="https://img.shields.io/badge/Google Cloud-4285f4?style=for-the-badge&logo=Google%20Cloud&logoColor=white"/>
-  
+ 
   </br></br></br>
 
 ### <div align=center>💜My Sats</div>
