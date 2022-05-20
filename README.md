@@ -6,8 +6,13 @@
  
 [<div align=center>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnakki%2Fhit-counter&count_bg=%23E093E2&title_bg=%2320D9E0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
- <a href="https://velog.io/@nnakki"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
- <a href="https://www.instagram.com/ddaamg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://velog.io/@nnakki"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://www.instagram.com/ddaamg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+ 
+<p align="center"><img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="500"/></p>
+<p align="center">
+
 
 
 ### <div align=center>💜Introduction</div>
