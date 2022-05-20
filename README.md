@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D880FD,100:68F7F0&height=300&section=header&text=Hello%20I'm%20YEJI&fontSize=90&fontColor=ffffff)
 
+
+<p align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
+<p align="center">
+ 
 [<div align=center>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnakki%2Fhit-counter&count_bg=%23E093E2&title_bg=%2320D9E0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ <a href="https://velog.io/@nnakki"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+ <a href="https://www.instagram.com/ddaamg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 
 ### <div align=center>💜Introduction</div>
 <div align=center>Hi guys! I am studying hard to be a Backend Developer.</div>
@@ -24,6 +32,8 @@
   
   </br></br></br>
 
+---
+
 ### <div align=center>💜My Sats</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnakki&show_icons=true&theme=radical)
@@ -33,6 +43,8 @@
 </br>
 </br>
 </br>
+
+---
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
