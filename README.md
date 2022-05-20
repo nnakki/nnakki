@@ -35,18 +35,11 @@
 </br>
 
 ### <div align=center>💜my Velog</div>
+<details>
+<summary>VELOG STATS</summary>  
 <!--VELOG:START-->
-[22.05.19 TIL](https://velog.io/@nnakki/22.05.19-TIL)
-
-[[Java]메모리 사용 영역](https://velog.io/@nnakki/Java%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EC%98%81%EC%97%AD)
-
-[22.05.18 TIL](https://velog.io/@nnakki/22.05.18-TIL)
-
-[[Algorithm]조합(Combination)](https://velog.io/@nnakki/Algorithm%EC%A1%B0%ED%95%A9Combination)
-
-[22.05.17 TIL](https://velog.io/@nnakki/22.05.17-TIL)
-
 <!--VELOG:END-->
+</details>
 
 <!---
 nnakki/nnakki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
