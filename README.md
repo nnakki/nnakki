@@ -9,11 +9,8 @@
 <a href="https://velog.io/@nnakki"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="https://www.instagram.com/ddaamg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
- 
-<p align="center"><img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="500"/></p>
+<p align="center"><img src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="400"/></p>
 <p align="center">
-
-
 
 ### <div align=center>💜Introduction</div>
 <div align=center>Hi guys! I am studying hard to be a Backend Developer.</div>
