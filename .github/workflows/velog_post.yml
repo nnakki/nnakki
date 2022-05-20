@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 14 * * *'
+    - cron: "0 0 * * *"
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -22,4 +22,4 @@ jobs:
           README_PATH: 'README.md'
           COMMIT_MSG: 'Update README'
           LIMIT: 5
-          TYPE: '🤍'
+          TYPE: 'NONE'
