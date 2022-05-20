@@ -30,8 +30,6 @@
   
   </br></br></br>
 
----
-
 ### <div align=center>💜My Sats</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnakki&show_icons=true&theme=radical)
@@ -42,7 +40,6 @@
 </br>
 </br>
 
----
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
