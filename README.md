@@ -10,7 +10,7 @@
 
 ### <div align=center>💜Introduction</div>
 <div align=center>Hi guys! I am studying hard to be a Backend Developer.</div>
-<div align=center>I’m currently learning Java and Cloud Service🤍</div>
+<div align=center>I’m currently learning Java and Cloud Service</div>
 
 </br>
 </br>
