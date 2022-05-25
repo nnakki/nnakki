@@ -40,15 +40,15 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
-[22.05.19 TIL](https://velog.io/@nnakki/22.05.19-TIL)
+[22.05.25 TIL](https://velog.io/@nnakki/22.05.25-TIL)
 
-[[Java]메모리 사용 영역](https://velog.io/@nnakki/Java%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EC%98%81%EC%97%AD)
+[[서버리스]서버리스 프론트엔드](https://velog.io/@nnakki/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
 
-[22.05.18 TIL](https://velog.io/@nnakki/22.05.18-TIL)
+[[SQL] Operator, Function](https://velog.io/@nnakki/SQL-Operator-Function)
 
-[[Algorithm]조합(Combination)](https://velog.io/@nnakki/Algorithm%EC%A1%B0%ED%95%A9Combination)
+[[SQL] JOIN](https://velog.io/@nnakki/SQL-JOIN)
 
-[22.05.17 TIL](https://velog.io/@nnakki/22.05.17-TIL)
+[[SQL] SQL 기본 문법 ](https://velog.io/@nnakki/SQL-SQL-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 
 <!--VELOG:END-->
 
