@@ -40,6 +40,8 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[22.05.26 TIL](https://velog.io/@nnakki/22.05.26-TIL)
+
 [22.05.25 TIL](https://velog.io/@nnakki/22.05.25-TIL)
 
 [[서버리스]서버리스 프론트엔드](https://velog.io/@nnakki/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C)
@@ -47,8 +49,6 @@
 [[SQL] Operator, Function](https://velog.io/@nnakki/SQL-Operator-Function)
 
 [[SQL] JOIN](https://velog.io/@nnakki/SQL-JOIN)
-
-[[SQL] SQL 기본 문법 ](https://velog.io/@nnakki/SQL-SQL-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 
 <!--VELOG:END-->
 
