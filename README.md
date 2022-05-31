@@ -40,15 +40,15 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[22.05.31 TIL](https://velog.io/@nnakki/22.05.31-TIL)
+
+[[서버리스배포]SAM](https://velog.io/@nnakki/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EB%B0%B0%ED%8F%ACSAM)
+
+[[이펙티브 자바]17. 변경 가능성 최소화하기(Immutable Class)](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9417.-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0Immutable-Class)
+
 [[Algorithm]BOJ 1676 팩토리얼 0의 개수](https://velog.io/@nnakki/AlgorithmBOJ-1676-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC-0%EC%9D%98-%EA%B0%9C%EC%88%98)
 
 [[이펙티브 자바]2. 생성자에 매개변수가 많다면 빌더 고려하기](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%942.-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94-%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0)
-
-[[이펙티브 자바] 1. 생성자 대신 정적 팩토리 메서드 고려하기](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-1.-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C-%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0)
-
-[[Algorithm]Dynamic Programming(동적계획법)](https://velog.io/@nnakki/AlgorithmDynamic-Programming%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)
-
-[22.05.30 TIL](https://velog.io/@nnakki/22.05.30-TIL)
 
 <!--VELOG:END-->
 
