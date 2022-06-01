@@ -40,6 +40,8 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[[이펙티브자바] 6.불필요한 객체 생성을 피하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%EC%9E%90%EB%B0%94-6.%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
+
 [22.05.31 TIL](https://velog.io/@nnakki/22.05.31-TIL)
 
 [[서버리스배포]SAM](https://velog.io/@nnakki/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EB%B0%B0%ED%8F%ACSAM)
@@ -47,8 +49,6 @@
 [[이펙티브 자바]17. 변경 가능성 최소화하기(Immutable Class)](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9417.-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EA%B8%B0Immutable-Class)
 
 [[Algorithm]BOJ 1676 팩토리얼 0의 개수](https://velog.io/@nnakki/AlgorithmBOJ-1676-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC-0%EC%9D%98-%EA%B0%9C%EC%88%98)
-
-[[이펙티브 자바]2. 생성자에 매개변수가 많다면 빌더 고려하기](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%942.-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94-%EA%B3%A0%EB%A0%A4%ED%95%98%EA%B8%B0)
 
 <!--VELOG:END-->
 
