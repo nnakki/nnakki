@@ -40,6 +40,8 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[22.06.03 TIL](https://velog.io/@nnakki/22.06.03-TIL)
+
 [[Spring Boot]라이브러리](https://velog.io/@nnakki/Spring-Boot%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 
 [22.06.02  TIL](https://velog.io/@nnakki/22.06.02-TIL)
@@ -47,8 +49,6 @@
 [[이펙티브 자바]6.불필요한 객체 생성을 피하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%946.%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
 
 [22.05.31 TIL](https://velog.io/@nnakki/22.05.31-TIL)
-
-[[서버리스배포]SAM](https://velog.io/@nnakki/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%EB%B0%B0%ED%8F%ACSAM)
 
 <!--VELOG:END-->
 
