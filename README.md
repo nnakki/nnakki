@@ -40,15 +40,15 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[22.05.30 - 22.06.05 WIL](https://velog.io/@nnakki/22.05.30-22.06.05-WIL)
+
+[[Java]해쉬테이블의 이해와 구현](https://velog.io/@nnakki/Java%ED%95%B4%EC%89%AC%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EA%B5%AC%ED%98%84)
+
+[[이펙티브 자바]11. equals를 재정의하려거든 hashcode도 재정의하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9411.-equals%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0-hashcode%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+
+[[이펙티브 자바]10. equals는 일반 규약을 지켜서 재정의하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9410.-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A7%80%EC%BC%9C%EC%84%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+
 [22.06.03 TIL](https://velog.io/@nnakki/22.06.03-TIL)
-
-[[Spring Boot]라이브러리](https://velog.io/@nnakki/Spring-Boot%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
-
-[22.06.02  TIL](https://velog.io/@nnakki/22.06.02-TIL)
-
-[[이펙티브 자바]6.불필요한 객체 생성을 피하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%946.%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)
-
-[22.05.31 TIL](https://velog.io/@nnakki/22.05.31-TIL)
 
 <!--VELOG:END-->
 
