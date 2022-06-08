@@ -40,15 +40,15 @@
 
 ### <div align=center>💜my Velog</div>
 <!--VELOG:START-->
+[22.06.08 TIL](https://velog.io/@nnakki/22.06.08-TIL)
+
+[스프링부트에서 테스트 코드를 작성하자](https://velog.io/@nnakki/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90)
+
+[[이펙티브 자바]15.클래스와 멤버의 접근권한을 최소화하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9415.%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC)
+
 [22.06.07 TIL](https://velog.io/@nnakki/22.06.07-TIL)
 
 [[Spring]API](https://velog.io/@nnakki/SpringAPI)
-
-[22.05.30 - 22.06.05 WIL](https://velog.io/@nnakki/22.05.30-22.06.05-WIL)
-
-[[Java]hashcode( )](https://velog.io/@nnakki/Java%ED%95%B4%EC%89%AC%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EA%B5%AC%ED%98%84)
-
-[[이펙티브 자바]11. equals를 재정의하려거든 hashcode도 재정의하라](https://velog.io/@nnakki/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%9411.-equals%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0-hashcode%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
 
 <!--VELOG:END-->
 
