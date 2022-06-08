@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D880FD,100:68F7F0&height=250&section=header&text=👋🏻%20I'm%20YEZI&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:D880FD,100:68F7F0&height=100&section=header&text=👋🏻%20I'm%20YEZI&fontSize=60&fontColor=FFFFFF)
 
 
 [<div align=center>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnnakki%2Fhit-counter&count_bg=%23E093E2&title_bg=%2320D9E0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
