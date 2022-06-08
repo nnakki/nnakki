@@ -14,7 +14,7 @@
 </br>
 </br>
 
-### <div align=center>💜Studying</div>
+### <div align=center>Tech Stack</div>
 <div align=center> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -26,7 +26,7 @@
  
   </br></br></br>
 
-### <div align=center>💜My Sats</div>
+### <div align=center>My Stats</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnakki&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnakki&layout=compact&theme=radical)
 
@@ -36,7 +36,7 @@
 </br>
 
 
-### <div align=center>💜Algorithm</div>
+### <div align=center>Algorithm</div>
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=medmedeee)](https://solved.ac/medmedeee)
@@ -47,7 +47,7 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj=medmedeee)](https://solv
 </br>
 </br>
   
-### <div align=center>💜my Velog</div>
+### <div align=center>Velog</div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nnakki)](https://velog.io/@nnakki) 
 
 </br>
