@@ -6,7 +6,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=soft&color=0:D880FD,100:68F7F0&height=100&section=header&text=👋🏻%20I'm%20YEZI&fontSize=60&fontColor=FFFFFF)
 
-### <div align=center>💜Introduction</div>
+
 <div align=center>Hi guys! I am studying hard to be a Backend Developer.</div>
 <div align=center>I’m currently learning Java/Spring and Cloud Service</div>
 
